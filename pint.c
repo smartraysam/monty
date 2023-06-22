@@ -2,9 +2,8 @@
 
 /**
  * f_pint - print top node on stack
- * @head: pointer to pointer of first node
+ * @head: pointer to pointer of the first node
  * @counter: line counter
- *
  * Return: none
  */
 
